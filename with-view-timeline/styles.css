@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 200vh;
+}
+
+.intro {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #f0f0f0;
+}
+
+.spacer {
+    height: 50vh;
+}
+
+.box {
+    width: 300px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: #2a6df4;
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+
+    view-timeline-name: --box-scroll;
+    view-timeline-axis: block;
+
+    animation: fade-in linear;
+    animation-timeline: --box-scroll;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+} 
