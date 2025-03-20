@@ -2,7 +2,7 @@
 
 ![Scroll Animation Demo](https://img.shields.io/badge/Demo-Scroll%20Animations-orange)
 ![CSS](https://img.shields.io/badge/CSS-View%20Timeline-blue)
-[![YouTube](https://img.shields.io/badge/YouTube-chunkydotdev-red)](https://youtube.com/chunkydotdev)
+[![YouTube](https://img.shields.io/badge/YouTube-chunkydotdev-red)](https://youtube.com/@chunkydotdev)
 
 A showcase of modern scroll-based animations using the CSS `view-timeline` property, without any JavaScript!
 
