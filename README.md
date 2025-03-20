@@ -106,7 +106,7 @@ To dive deeper into CSS view timelines:
 
 ## 🎬 See It in Action
 
-Check out the full tutorial and demo on my YouTube channel: [chunkydotdev](https://youtube.com/chunkydotdev)
+Check out the full tutorial and demo on my YouTube channel: [chunkydotdev](https://youtube.com/@chunkydotdev)
 
 ## 🤝 Contributing
 
